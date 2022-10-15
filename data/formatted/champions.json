@@ -1,0 +1,2932 @@
+{
+    "1": {
+        "cost": 1,
+        "total": 1091,
+        "champions": {
+            "aatrox": {
+                "name": "Aatrox",
+                "championId": "TFT5_Aatrox",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "akshan": {
+                "name": "Akshan",
+                "championId": "TFT5_Akshan",
+                "cost": 5,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Ranger"
+                ],
+                "amount": 10
+            },
+            "aphelios": {
+                "name": "Aphelios",
+                "championId": "TFT5_Aphelios",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Ranger"
+                ],
+                "amount": 12
+            },
+            "ashe": {
+                "name": "Ashe",
+                "championId": "TFT5_Ashe",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Ranger"
+                ],
+                "amount": 18
+            },
+            "brand": {
+                "name": "Brand",
+                "championId": "TFT5_Brand",
+                "cost": 2,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 22
+            },
+            "diana": {
+                "name": "Diana",
+                "championId": "TFT5_Diana",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 12
+            },
+            "draven": {
+                "name": "Draven",
+                "championId": "TFT5_Draven",
+                "cost": 4,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 12
+            },
+            "fiddlesticks": {
+                "name": "Fiddlesticks",
+                "championId": "TFT5_Fiddlesticks",
+                "cost": 4,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Revenant",
+                    "Set5_Mystic"
+                ],
+                "amount": 12
+            },
+            "galio": {
+                "name": "Galio",
+                "championId": "TFT5_Galio",
+                "cost": 4,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Sentinel",
+                    "Set5_Knight"
+                ],
+                "amount": 12
+            },
+            "garen": {
+                "name": "Garen",
+                "championId": "TFT5_Garen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Victorious",
+                    "Set5_Dawnbringer",
+                    "Set5_Knight"
+                ],
+                "amount": 10
+            },
+            "gragas": {
+                "name": "Gragas",
+                "championId": "TFT5_Gragas",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Brawler"
+                ],
+                "amount": 29
+            },
+            "gwen": {
+                "name": "Gwen",
+                "championId": "TFT5_Gwen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Inanimate",
+                    "Set5_Mystic"
+                ],
+                "amount": 10
+            },
+            "hecarim": {
+                "name": "Hecarim",
+                "championId": "TFT5_Hecarim",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "heimerdinger": {
+                "name": "Heimerdinger",
+                "championId": "TFT5_Heimerdinger",
+                "cost": 5,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Renewer",
+                    "Set5_Caretaker"
+                ],
+                "amount": 10
+            },
+            "ivern": {
+                "name": "Ivern",
+                "championId": "TFT5_Ivern",
+                "cost": 4,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Invoker",
+                    "Set5_Renewer"
+                ],
+                "amount": 12
+            },
+            "irelia": {
+                "name": "Irelia",
+                "championId": "TFT5_Irelia",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 22
+            },
+            "jax": {
+                "name": "Jax",
+                "championId": "TFT5_Jax",
+                "cost": 4,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 12
+            },
+            "kalista": {
+                "name": "Kalista",
+                "championId": "TFT5_Kalista",
+                "cost": 1,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "karma": {
+                "name": "Karma",
+                "championId": "TFT5_Karma",
+                "cost": 4,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Invoker"
+                ],
+                "amount": 12
+            },
+            "kayle": {
+                "name": "Kayle",
+                "championId": "TFT5_Kayle",
+                "cost": 5,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 10
+            },
+            "kennen": {
+                "name": "Kennen",
+                "championId": "TFT5_Kennen",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 22
+            },
+            "kha'zix": {
+                "name": "Kha'Zix",
+                "championId": "TFT5_Khazix",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 29
+            },
+            "kled": {
+                "name": "Kled",
+                "championId": "TFT5_Kled",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cavalier"
+                ],
+                "amount": 29
+            },
+            "lee sin": {
+                "name": "Lee Sin",
+                "championId": "TFT5_LeeSin",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "leona": {
+                "name": "Leona",
+                "championId": "TFT5_Leona",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "lucian": {
+                "name": "Lucian",
+                "championId": "TFT5_Lucian",
+                "cost": 4,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 12
+            },
+            "lulu": {
+                "name": "Lulu",
+                "championId": "TFT5_Lulu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "lux": {
+                "name": "Lux",
+                "championId": "TFT5_Lux",
+                "cost": 3,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "miss fortune": {
+                "name": "Miss Fortune",
+                "championId": "TFT5_MissFortune",
+                "cost": 3,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 18
+            },
+            "nautilus": {
+                "name": "Nautilus",
+                "championId": "TFT5_Nautilus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "nidalee": {
+                "name": "Nidalee",
+                "championId": "TFT5_Nidalee",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "nocturne": {
+                "name": "Nocturne",
+                "championId": "TFT5_Nocturne",
+                "cost": 3,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Assassin"
+                ],
+                "amount": 18
+            },
+            "nunu": {
+                "name": "Nunu",
+                "championId": "TFT5_Nunu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Brawler"
+                ],
+                "amount": 18
+            },
+            "olaf": {
+                "name": "Olaf",
+                "championId": "TFT5_Olaf",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "poppy": {
+                "name": "Poppy",
+                "championId": "TFT5_Poppy",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "pyke": {
+                "name": "Pyke",
+                "championId": "TFT5_Pyke",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Assassin"
+                ],
+                "amount": 22
+            },
+            "rakan": {
+                "name": "Rakan",
+                "championId": "TFT5_Rakan",
+                "cost": 3,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Renewer"
+                ],
+                "amount": 18
+            },
+            "rell": {
+                "name": "Rell",
+                "championId": "TFT5_Rell",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ironclad",
+                    "Set5_Cavalier"
+                ],
+                "amount": 12
+            },
+            "riven": {
+                "name": "Riven",
+                "championId": "TFT5_Riven",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "sejuani": {
+                "name": "Sejuani",
+                "championId": "TFT5_Sejuani",
+                "cost": 2,
+                "traits": [
+                    "Set5_Brawler",
+                    "Set5_Nightbringer",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "senna": {
+                "name": "Senna",
+                "championId": "TFT5_Senna",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 29
+            },
+            "sett": {
+                "name": "Sett",
+                "championId": "TFT5_Sett",
+                "cost": 2,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Brawler"
+                ],
+                "amount": 22
+            },
+            "soraka": {
+                "name": "Soraka",
+                "championId": "TFT5_Soraka",
+                "cost": 2,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 22
+            },
+            "syndra": {
+                "name": "Syndra",
+                "championId": "TFT5_Syndra",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Invoker"
+                ],
+                "amount": 22
+            },
+            "teemo": {
+                "name": "Teemo",
+                "championId": "TFT5_Teemo",
+                "cost": 5,
+                "traits": [
+                    "Set5_Cruel",
+                    "Set5_Hellion",
+                    "Set5_Invoker"
+                ],
+                "amount": 10
+            },
+            "thresh": {
+                "name": "Thresh",
+                "championId": "TFT5_Thresh",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "tristana": {
+                "name": "Tristana",
+                "championId": "TFT5_Tristana",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 22
+            },
+            "udyr": {
+                "name": "Udyr",
+                "championId": "TFT5_Udyr",
+                "cost": 1,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "varus": {
+                "name": "Varus",
+                "championId": "TFT5_Varus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ranger"
+                ],
+                "amount": 22
+            },
+            "vayne": {
+                "name": "Vayne",
+                "championId": "TFT5_Vayne",
+                "cost": 1,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Ranger"
+                ],
+                "amount": 29
+            },
+            "vel'koz": {
+                "name": "Vel'Koz",
+                "championId": "TFT5_Velkoz",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 12
+            },
+            "viego": {
+                "name": "Viego",
+                "championId": "TFT5_Viego",
+                "cost": 5,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Skirmisher",
+                    "Set5_Assassin"
+                ],
+                "amount": 10
+            },
+            "vladimir": {
+                "name": "Vladimir",
+                "championId": "TFT5_Vladimir",
+                "cost": 1,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 29
+            },
+            "volibear": {
+                "name": "Volibear",
+                "championId": "TFT5_Volibear",
+                "cost": 5,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Brawler"
+                ],
+                "amount": 10
+            },
+            "yasuo": {
+                "name": "Yasuo",
+                "championId": "TFT5_Yasuo",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "ziggs": {
+                "name": "Ziggs",
+                "championId": "TFT5_Ziggs",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 29
+            },
+            "zyra": {
+                "name": "Zyra",
+                "championId": "TFT5_Zyra",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 18
+            }
+        }
+    },
+    "2": {
+        "cost": 2,
+        "total": 1091,
+        "champions": {
+            "aatrox": {
+                "name": "Aatrox",
+                "championId": "TFT5_Aatrox",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "akshan": {
+                "name": "Akshan",
+                "championId": "TFT5_Akshan",
+                "cost": 5,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Ranger"
+                ],
+                "amount": 10
+            },
+            "aphelios": {
+                "name": "Aphelios",
+                "championId": "TFT5_Aphelios",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Ranger"
+                ],
+                "amount": 12
+            },
+            "ashe": {
+                "name": "Ashe",
+                "championId": "TFT5_Ashe",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Ranger"
+                ],
+                "amount": 18
+            },
+            "brand": {
+                "name": "Brand",
+                "championId": "TFT5_Brand",
+                "cost": 2,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 22
+            },
+            "diana": {
+                "name": "Diana",
+                "championId": "TFT5_Diana",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 12
+            },
+            "draven": {
+                "name": "Draven",
+                "championId": "TFT5_Draven",
+                "cost": 4,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 12
+            },
+            "fiddlesticks": {
+                "name": "Fiddlesticks",
+                "championId": "TFT5_Fiddlesticks",
+                "cost": 4,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Revenant",
+                    "Set5_Mystic"
+                ],
+                "amount": 12
+            },
+            "galio": {
+                "name": "Galio",
+                "championId": "TFT5_Galio",
+                "cost": 4,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Sentinel",
+                    "Set5_Knight"
+                ],
+                "amount": 12
+            },
+            "garen": {
+                "name": "Garen",
+                "championId": "TFT5_Garen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Victorious",
+                    "Set5_Dawnbringer",
+                    "Set5_Knight"
+                ],
+                "amount": 10
+            },
+            "gragas": {
+                "name": "Gragas",
+                "championId": "TFT5_Gragas",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Brawler"
+                ],
+                "amount": 29
+            },
+            "gwen": {
+                "name": "Gwen",
+                "championId": "TFT5_Gwen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Inanimate",
+                    "Set5_Mystic"
+                ],
+                "amount": 10
+            },
+            "hecarim": {
+                "name": "Hecarim",
+                "championId": "TFT5_Hecarim",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "heimerdinger": {
+                "name": "Heimerdinger",
+                "championId": "TFT5_Heimerdinger",
+                "cost": 5,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Renewer",
+                    "Set5_Caretaker"
+                ],
+                "amount": 10
+            },
+            "ivern": {
+                "name": "Ivern",
+                "championId": "TFT5_Ivern",
+                "cost": 4,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Invoker",
+                    "Set5_Renewer"
+                ],
+                "amount": 12
+            },
+            "irelia": {
+                "name": "Irelia",
+                "championId": "TFT5_Irelia",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 22
+            },
+            "jax": {
+                "name": "Jax",
+                "championId": "TFT5_Jax",
+                "cost": 4,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 12
+            },
+            "kalista": {
+                "name": "Kalista",
+                "championId": "TFT5_Kalista",
+                "cost": 1,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "karma": {
+                "name": "Karma",
+                "championId": "TFT5_Karma",
+                "cost": 4,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Invoker"
+                ],
+                "amount": 12
+            },
+            "kayle": {
+                "name": "Kayle",
+                "championId": "TFT5_Kayle",
+                "cost": 5,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 10
+            },
+            "kennen": {
+                "name": "Kennen",
+                "championId": "TFT5_Kennen",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 22
+            },
+            "kha'zix": {
+                "name": "Kha'Zix",
+                "championId": "TFT5_Khazix",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 29
+            },
+            "kled": {
+                "name": "Kled",
+                "championId": "TFT5_Kled",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cavalier"
+                ],
+                "amount": 29
+            },
+            "lee sin": {
+                "name": "Lee Sin",
+                "championId": "TFT5_LeeSin",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "leona": {
+                "name": "Leona",
+                "championId": "TFT5_Leona",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "lucian": {
+                "name": "Lucian",
+                "championId": "TFT5_Lucian",
+                "cost": 4,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 12
+            },
+            "lulu": {
+                "name": "Lulu",
+                "championId": "TFT5_Lulu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "lux": {
+                "name": "Lux",
+                "championId": "TFT5_Lux",
+                "cost": 3,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "miss fortune": {
+                "name": "Miss Fortune",
+                "championId": "TFT5_MissFortune",
+                "cost": 3,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 18
+            },
+            "nautilus": {
+                "name": "Nautilus",
+                "championId": "TFT5_Nautilus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "nidalee": {
+                "name": "Nidalee",
+                "championId": "TFT5_Nidalee",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "nocturne": {
+                "name": "Nocturne",
+                "championId": "TFT5_Nocturne",
+                "cost": 3,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Assassin"
+                ],
+                "amount": 18
+            },
+            "nunu": {
+                "name": "Nunu",
+                "championId": "TFT5_Nunu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Brawler"
+                ],
+                "amount": 18
+            },
+            "olaf": {
+                "name": "Olaf",
+                "championId": "TFT5_Olaf",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "poppy": {
+                "name": "Poppy",
+                "championId": "TFT5_Poppy",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "pyke": {
+                "name": "Pyke",
+                "championId": "TFT5_Pyke",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Assassin"
+                ],
+                "amount": 22
+            },
+            "rakan": {
+                "name": "Rakan",
+                "championId": "TFT5_Rakan",
+                "cost": 3,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Renewer"
+                ],
+                "amount": 18
+            },
+            "rell": {
+                "name": "Rell",
+                "championId": "TFT5_Rell",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ironclad",
+                    "Set5_Cavalier"
+                ],
+                "amount": 12
+            },
+            "riven": {
+                "name": "Riven",
+                "championId": "TFT5_Riven",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "sejuani": {
+                "name": "Sejuani",
+                "championId": "TFT5_Sejuani",
+                "cost": 2,
+                "traits": [
+                    "Set5_Brawler",
+                    "Set5_Nightbringer",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "senna": {
+                "name": "Senna",
+                "championId": "TFT5_Senna",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 29
+            },
+            "sett": {
+                "name": "Sett",
+                "championId": "TFT5_Sett",
+                "cost": 2,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Brawler"
+                ],
+                "amount": 22
+            },
+            "soraka": {
+                "name": "Soraka",
+                "championId": "TFT5_Soraka",
+                "cost": 2,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 22
+            },
+            "syndra": {
+                "name": "Syndra",
+                "championId": "TFT5_Syndra",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Invoker"
+                ],
+                "amount": 22
+            },
+            "teemo": {
+                "name": "Teemo",
+                "championId": "TFT5_Teemo",
+                "cost": 5,
+                "traits": [
+                    "Set5_Cruel",
+                    "Set5_Hellion",
+                    "Set5_Invoker"
+                ],
+                "amount": 10
+            },
+            "thresh": {
+                "name": "Thresh",
+                "championId": "TFT5_Thresh",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "tristana": {
+                "name": "Tristana",
+                "championId": "TFT5_Tristana",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 22
+            },
+            "udyr": {
+                "name": "Udyr",
+                "championId": "TFT5_Udyr",
+                "cost": 1,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "varus": {
+                "name": "Varus",
+                "championId": "TFT5_Varus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ranger"
+                ],
+                "amount": 22
+            },
+            "vayne": {
+                "name": "Vayne",
+                "championId": "TFT5_Vayne",
+                "cost": 1,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Ranger"
+                ],
+                "amount": 29
+            },
+            "vel'koz": {
+                "name": "Vel'Koz",
+                "championId": "TFT5_Velkoz",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 12
+            },
+            "viego": {
+                "name": "Viego",
+                "championId": "TFT5_Viego",
+                "cost": 5,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Skirmisher",
+                    "Set5_Assassin"
+                ],
+                "amount": 10
+            },
+            "vladimir": {
+                "name": "Vladimir",
+                "championId": "TFT5_Vladimir",
+                "cost": 1,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 29
+            },
+            "volibear": {
+                "name": "Volibear",
+                "championId": "TFT5_Volibear",
+                "cost": 5,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Brawler"
+                ],
+                "amount": 10
+            },
+            "yasuo": {
+                "name": "Yasuo",
+                "championId": "TFT5_Yasuo",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "ziggs": {
+                "name": "Ziggs",
+                "championId": "TFT5_Ziggs",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 29
+            },
+            "zyra": {
+                "name": "Zyra",
+                "championId": "TFT5_Zyra",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 18
+            }
+        }
+    },
+    "3": {
+        "cost": 3,
+        "total": 1091,
+        "champions": {
+            "aatrox": {
+                "name": "Aatrox",
+                "championId": "TFT5_Aatrox",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "akshan": {
+                "name": "Akshan",
+                "championId": "TFT5_Akshan",
+                "cost": 5,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Ranger"
+                ],
+                "amount": 10
+            },
+            "aphelios": {
+                "name": "Aphelios",
+                "championId": "TFT5_Aphelios",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Ranger"
+                ],
+                "amount": 12
+            },
+            "ashe": {
+                "name": "Ashe",
+                "championId": "TFT5_Ashe",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Ranger"
+                ],
+                "amount": 18
+            },
+            "brand": {
+                "name": "Brand",
+                "championId": "TFT5_Brand",
+                "cost": 2,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 22
+            },
+            "diana": {
+                "name": "Diana",
+                "championId": "TFT5_Diana",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 12
+            },
+            "draven": {
+                "name": "Draven",
+                "championId": "TFT5_Draven",
+                "cost": 4,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 12
+            },
+            "fiddlesticks": {
+                "name": "Fiddlesticks",
+                "championId": "TFT5_Fiddlesticks",
+                "cost": 4,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Revenant",
+                    "Set5_Mystic"
+                ],
+                "amount": 12
+            },
+            "galio": {
+                "name": "Galio",
+                "championId": "TFT5_Galio",
+                "cost": 4,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Sentinel",
+                    "Set5_Knight"
+                ],
+                "amount": 12
+            },
+            "garen": {
+                "name": "Garen",
+                "championId": "TFT5_Garen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Victorious",
+                    "Set5_Dawnbringer",
+                    "Set5_Knight"
+                ],
+                "amount": 10
+            },
+            "gragas": {
+                "name": "Gragas",
+                "championId": "TFT5_Gragas",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Brawler"
+                ],
+                "amount": 29
+            },
+            "gwen": {
+                "name": "Gwen",
+                "championId": "TFT5_Gwen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Inanimate",
+                    "Set5_Mystic"
+                ],
+                "amount": 10
+            },
+            "hecarim": {
+                "name": "Hecarim",
+                "championId": "TFT5_Hecarim",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "heimerdinger": {
+                "name": "Heimerdinger",
+                "championId": "TFT5_Heimerdinger",
+                "cost": 5,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Renewer",
+                    "Set5_Caretaker"
+                ],
+                "amount": 10
+            },
+            "ivern": {
+                "name": "Ivern",
+                "championId": "TFT5_Ivern",
+                "cost": 4,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Invoker",
+                    "Set5_Renewer"
+                ],
+                "amount": 12
+            },
+            "irelia": {
+                "name": "Irelia",
+                "championId": "TFT5_Irelia",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 22
+            },
+            "jax": {
+                "name": "Jax",
+                "championId": "TFT5_Jax",
+                "cost": 4,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 12
+            },
+            "kalista": {
+                "name": "Kalista",
+                "championId": "TFT5_Kalista",
+                "cost": 1,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "karma": {
+                "name": "Karma",
+                "championId": "TFT5_Karma",
+                "cost": 4,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Invoker"
+                ],
+                "amount": 12
+            },
+            "kayle": {
+                "name": "Kayle",
+                "championId": "TFT5_Kayle",
+                "cost": 5,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 10
+            },
+            "kennen": {
+                "name": "Kennen",
+                "championId": "TFT5_Kennen",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 22
+            },
+            "kha'zix": {
+                "name": "Kha'Zix",
+                "championId": "TFT5_Khazix",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 29
+            },
+            "kled": {
+                "name": "Kled",
+                "championId": "TFT5_Kled",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cavalier"
+                ],
+                "amount": 29
+            },
+            "lee sin": {
+                "name": "Lee Sin",
+                "championId": "TFT5_LeeSin",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "leona": {
+                "name": "Leona",
+                "championId": "TFT5_Leona",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "lucian": {
+                "name": "Lucian",
+                "championId": "TFT5_Lucian",
+                "cost": 4,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 12
+            },
+            "lulu": {
+                "name": "Lulu",
+                "championId": "TFT5_Lulu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "lux": {
+                "name": "Lux",
+                "championId": "TFT5_Lux",
+                "cost": 3,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "miss fortune": {
+                "name": "Miss Fortune",
+                "championId": "TFT5_MissFortune",
+                "cost": 3,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 18
+            },
+            "nautilus": {
+                "name": "Nautilus",
+                "championId": "TFT5_Nautilus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "nidalee": {
+                "name": "Nidalee",
+                "championId": "TFT5_Nidalee",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "nocturne": {
+                "name": "Nocturne",
+                "championId": "TFT5_Nocturne",
+                "cost": 3,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Assassin"
+                ],
+                "amount": 18
+            },
+            "nunu": {
+                "name": "Nunu",
+                "championId": "TFT5_Nunu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Brawler"
+                ],
+                "amount": 18
+            },
+            "olaf": {
+                "name": "Olaf",
+                "championId": "TFT5_Olaf",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "poppy": {
+                "name": "Poppy",
+                "championId": "TFT5_Poppy",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "pyke": {
+                "name": "Pyke",
+                "championId": "TFT5_Pyke",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Assassin"
+                ],
+                "amount": 22
+            },
+            "rakan": {
+                "name": "Rakan",
+                "championId": "TFT5_Rakan",
+                "cost": 3,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Renewer"
+                ],
+                "amount": 18
+            },
+            "rell": {
+                "name": "Rell",
+                "championId": "TFT5_Rell",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ironclad",
+                    "Set5_Cavalier"
+                ],
+                "amount": 12
+            },
+            "riven": {
+                "name": "Riven",
+                "championId": "TFT5_Riven",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "sejuani": {
+                "name": "Sejuani",
+                "championId": "TFT5_Sejuani",
+                "cost": 2,
+                "traits": [
+                    "Set5_Brawler",
+                    "Set5_Nightbringer",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "senna": {
+                "name": "Senna",
+                "championId": "TFT5_Senna",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 29
+            },
+            "sett": {
+                "name": "Sett",
+                "championId": "TFT5_Sett",
+                "cost": 2,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Brawler"
+                ],
+                "amount": 22
+            },
+            "soraka": {
+                "name": "Soraka",
+                "championId": "TFT5_Soraka",
+                "cost": 2,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 22
+            },
+            "syndra": {
+                "name": "Syndra",
+                "championId": "TFT5_Syndra",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Invoker"
+                ],
+                "amount": 22
+            },
+            "teemo": {
+                "name": "Teemo",
+                "championId": "TFT5_Teemo",
+                "cost": 5,
+                "traits": [
+                    "Set5_Cruel",
+                    "Set5_Hellion",
+                    "Set5_Invoker"
+                ],
+                "amount": 10
+            },
+            "thresh": {
+                "name": "Thresh",
+                "championId": "TFT5_Thresh",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "tristana": {
+                "name": "Tristana",
+                "championId": "TFT5_Tristana",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 22
+            },
+            "udyr": {
+                "name": "Udyr",
+                "championId": "TFT5_Udyr",
+                "cost": 1,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "varus": {
+                "name": "Varus",
+                "championId": "TFT5_Varus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ranger"
+                ],
+                "amount": 22
+            },
+            "vayne": {
+                "name": "Vayne",
+                "championId": "TFT5_Vayne",
+                "cost": 1,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Ranger"
+                ],
+                "amount": 29
+            },
+            "vel'koz": {
+                "name": "Vel'Koz",
+                "championId": "TFT5_Velkoz",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 12
+            },
+            "viego": {
+                "name": "Viego",
+                "championId": "TFT5_Viego",
+                "cost": 5,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Skirmisher",
+                    "Set5_Assassin"
+                ],
+                "amount": 10
+            },
+            "vladimir": {
+                "name": "Vladimir",
+                "championId": "TFT5_Vladimir",
+                "cost": 1,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 29
+            },
+            "volibear": {
+                "name": "Volibear",
+                "championId": "TFT5_Volibear",
+                "cost": 5,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Brawler"
+                ],
+                "amount": 10
+            },
+            "yasuo": {
+                "name": "Yasuo",
+                "championId": "TFT5_Yasuo",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "ziggs": {
+                "name": "Ziggs",
+                "championId": "TFT5_Ziggs",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 29
+            },
+            "zyra": {
+                "name": "Zyra",
+                "championId": "TFT5_Zyra",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 18
+            }
+        }
+    },
+    "4": {
+        "cost": 4,
+        "total": 1091,
+        "champions": {
+            "aatrox": {
+                "name": "Aatrox",
+                "championId": "TFT5_Aatrox",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "akshan": {
+                "name": "Akshan",
+                "championId": "TFT5_Akshan",
+                "cost": 5,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Ranger"
+                ],
+                "amount": 10
+            },
+            "aphelios": {
+                "name": "Aphelios",
+                "championId": "TFT5_Aphelios",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Ranger"
+                ],
+                "amount": 12
+            },
+            "ashe": {
+                "name": "Ashe",
+                "championId": "TFT5_Ashe",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Ranger"
+                ],
+                "amount": 18
+            },
+            "brand": {
+                "name": "Brand",
+                "championId": "TFT5_Brand",
+                "cost": 2,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 22
+            },
+            "diana": {
+                "name": "Diana",
+                "championId": "TFT5_Diana",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 12
+            },
+            "draven": {
+                "name": "Draven",
+                "championId": "TFT5_Draven",
+                "cost": 4,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 12
+            },
+            "fiddlesticks": {
+                "name": "Fiddlesticks",
+                "championId": "TFT5_Fiddlesticks",
+                "cost": 4,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Revenant",
+                    "Set5_Mystic"
+                ],
+                "amount": 12
+            },
+            "galio": {
+                "name": "Galio",
+                "championId": "TFT5_Galio",
+                "cost": 4,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Sentinel",
+                    "Set5_Knight"
+                ],
+                "amount": 12
+            },
+            "garen": {
+                "name": "Garen",
+                "championId": "TFT5_Garen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Victorious",
+                    "Set5_Dawnbringer",
+                    "Set5_Knight"
+                ],
+                "amount": 10
+            },
+            "gragas": {
+                "name": "Gragas",
+                "championId": "TFT5_Gragas",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Brawler"
+                ],
+                "amount": 29
+            },
+            "gwen": {
+                "name": "Gwen",
+                "championId": "TFT5_Gwen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Inanimate",
+                    "Set5_Mystic"
+                ],
+                "amount": 10
+            },
+            "hecarim": {
+                "name": "Hecarim",
+                "championId": "TFT5_Hecarim",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "heimerdinger": {
+                "name": "Heimerdinger",
+                "championId": "TFT5_Heimerdinger",
+                "cost": 5,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Renewer",
+                    "Set5_Caretaker"
+                ],
+                "amount": 10
+            },
+            "ivern": {
+                "name": "Ivern",
+                "championId": "TFT5_Ivern",
+                "cost": 4,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Invoker",
+                    "Set5_Renewer"
+                ],
+                "amount": 12
+            },
+            "irelia": {
+                "name": "Irelia",
+                "championId": "TFT5_Irelia",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 22
+            },
+            "jax": {
+                "name": "Jax",
+                "championId": "TFT5_Jax",
+                "cost": 4,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 12
+            },
+            "kalista": {
+                "name": "Kalista",
+                "championId": "TFT5_Kalista",
+                "cost": 1,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "karma": {
+                "name": "Karma",
+                "championId": "TFT5_Karma",
+                "cost": 4,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Invoker"
+                ],
+                "amount": 12
+            },
+            "kayle": {
+                "name": "Kayle",
+                "championId": "TFT5_Kayle",
+                "cost": 5,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 10
+            },
+            "kennen": {
+                "name": "Kennen",
+                "championId": "TFT5_Kennen",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 22
+            },
+            "kha'zix": {
+                "name": "Kha'Zix",
+                "championId": "TFT5_Khazix",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 29
+            },
+            "kled": {
+                "name": "Kled",
+                "championId": "TFT5_Kled",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cavalier"
+                ],
+                "amount": 29
+            },
+            "lee sin": {
+                "name": "Lee Sin",
+                "championId": "TFT5_LeeSin",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "leona": {
+                "name": "Leona",
+                "championId": "TFT5_Leona",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "lucian": {
+                "name": "Lucian",
+                "championId": "TFT5_Lucian",
+                "cost": 4,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 12
+            },
+            "lulu": {
+                "name": "Lulu",
+                "championId": "TFT5_Lulu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "lux": {
+                "name": "Lux",
+                "championId": "TFT5_Lux",
+                "cost": 3,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "miss fortune": {
+                "name": "Miss Fortune",
+                "championId": "TFT5_MissFortune",
+                "cost": 3,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 18
+            },
+            "nautilus": {
+                "name": "Nautilus",
+                "championId": "TFT5_Nautilus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "nidalee": {
+                "name": "Nidalee",
+                "championId": "TFT5_Nidalee",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "nocturne": {
+                "name": "Nocturne",
+                "championId": "TFT5_Nocturne",
+                "cost": 3,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Assassin"
+                ],
+                "amount": 18
+            },
+            "nunu": {
+                "name": "Nunu",
+                "championId": "TFT5_Nunu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Brawler"
+                ],
+                "amount": 18
+            },
+            "olaf": {
+                "name": "Olaf",
+                "championId": "TFT5_Olaf",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "poppy": {
+                "name": "Poppy",
+                "championId": "TFT5_Poppy",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "pyke": {
+                "name": "Pyke",
+                "championId": "TFT5_Pyke",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Assassin"
+                ],
+                "amount": 22
+            },
+            "rakan": {
+                "name": "Rakan",
+                "championId": "TFT5_Rakan",
+                "cost": 3,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Renewer"
+                ],
+                "amount": 18
+            },
+            "rell": {
+                "name": "Rell",
+                "championId": "TFT5_Rell",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ironclad",
+                    "Set5_Cavalier"
+                ],
+                "amount": 12
+            },
+            "riven": {
+                "name": "Riven",
+                "championId": "TFT5_Riven",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "sejuani": {
+                "name": "Sejuani",
+                "championId": "TFT5_Sejuani",
+                "cost": 2,
+                "traits": [
+                    "Set5_Brawler",
+                    "Set5_Nightbringer",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "senna": {
+                "name": "Senna",
+                "championId": "TFT5_Senna",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 29
+            },
+            "sett": {
+                "name": "Sett",
+                "championId": "TFT5_Sett",
+                "cost": 2,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Brawler"
+                ],
+                "amount": 22
+            },
+            "soraka": {
+                "name": "Soraka",
+                "championId": "TFT5_Soraka",
+                "cost": 2,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 22
+            },
+            "syndra": {
+                "name": "Syndra",
+                "championId": "TFT5_Syndra",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Invoker"
+                ],
+                "amount": 22
+            },
+            "teemo": {
+                "name": "Teemo",
+                "championId": "TFT5_Teemo",
+                "cost": 5,
+                "traits": [
+                    "Set5_Cruel",
+                    "Set5_Hellion",
+                    "Set5_Invoker"
+                ],
+                "amount": 10
+            },
+            "thresh": {
+                "name": "Thresh",
+                "championId": "TFT5_Thresh",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "tristana": {
+                "name": "Tristana",
+                "championId": "TFT5_Tristana",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 22
+            },
+            "udyr": {
+                "name": "Udyr",
+                "championId": "TFT5_Udyr",
+                "cost": 1,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "varus": {
+                "name": "Varus",
+                "championId": "TFT5_Varus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ranger"
+                ],
+                "amount": 22
+            },
+            "vayne": {
+                "name": "Vayne",
+                "championId": "TFT5_Vayne",
+                "cost": 1,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Ranger"
+                ],
+                "amount": 29
+            },
+            "vel'koz": {
+                "name": "Vel'Koz",
+                "championId": "TFT5_Velkoz",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 12
+            },
+            "viego": {
+                "name": "Viego",
+                "championId": "TFT5_Viego",
+                "cost": 5,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Skirmisher",
+                    "Set5_Assassin"
+                ],
+                "amount": 10
+            },
+            "vladimir": {
+                "name": "Vladimir",
+                "championId": "TFT5_Vladimir",
+                "cost": 1,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 29
+            },
+            "volibear": {
+                "name": "Volibear",
+                "championId": "TFT5_Volibear",
+                "cost": 5,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Brawler"
+                ],
+                "amount": 10
+            },
+            "yasuo": {
+                "name": "Yasuo",
+                "championId": "TFT5_Yasuo",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "ziggs": {
+                "name": "Ziggs",
+                "championId": "TFT5_Ziggs",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 29
+            },
+            "zyra": {
+                "name": "Zyra",
+                "championId": "TFT5_Zyra",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 18
+            }
+        }
+    },
+    "5": {
+        "cost": 5,
+        "total": 1091,
+        "champions": {
+            "aatrox": {
+                "name": "Aatrox",
+                "championId": "TFT5_Aatrox",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "akshan": {
+                "name": "Akshan",
+                "championId": "TFT5_Akshan",
+                "cost": 5,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Ranger"
+                ],
+                "amount": 10
+            },
+            "aphelios": {
+                "name": "Aphelios",
+                "championId": "TFT5_Aphelios",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Ranger"
+                ],
+                "amount": 12
+            },
+            "ashe": {
+                "name": "Ashe",
+                "championId": "TFT5_Ashe",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Ranger"
+                ],
+                "amount": 18
+            },
+            "brand": {
+                "name": "Brand",
+                "championId": "TFT5_Brand",
+                "cost": 2,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 22
+            },
+            "diana": {
+                "name": "Diana",
+                "championId": "TFT5_Diana",
+                "cost": 4,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 12
+            },
+            "draven": {
+                "name": "Draven",
+                "championId": "TFT5_Draven",
+                "cost": 4,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 12
+            },
+            "fiddlesticks": {
+                "name": "Fiddlesticks",
+                "championId": "TFT5_Fiddlesticks",
+                "cost": 4,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Revenant",
+                    "Set5_Mystic"
+                ],
+                "amount": 12
+            },
+            "galio": {
+                "name": "Galio",
+                "championId": "TFT5_Galio",
+                "cost": 4,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Sentinel",
+                    "Set5_Knight"
+                ],
+                "amount": 12
+            },
+            "garen": {
+                "name": "Garen",
+                "championId": "TFT5_Garen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Victorious",
+                    "Set5_Dawnbringer",
+                    "Set5_Knight"
+                ],
+                "amount": 10
+            },
+            "gragas": {
+                "name": "Gragas",
+                "championId": "TFT5_Gragas",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Brawler"
+                ],
+                "amount": 29
+            },
+            "gwen": {
+                "name": "Gwen",
+                "championId": "TFT5_Gwen",
+                "cost": 5,
+                "traits": [
+                    "Set5_Inanimate",
+                    "Set5_Mystic"
+                ],
+                "amount": 10
+            },
+            "hecarim": {
+                "name": "Hecarim",
+                "championId": "TFT5_Hecarim",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "heimerdinger": {
+                "name": "Heimerdinger",
+                "championId": "TFT5_Heimerdinger",
+                "cost": 5,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Renewer",
+                    "Set5_Caretaker"
+                ],
+                "amount": 10
+            },
+            "ivern": {
+                "name": "Ivern",
+                "championId": "TFT5_Ivern",
+                "cost": 4,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Invoker",
+                    "Set5_Renewer"
+                ],
+                "amount": 12
+            },
+            "irelia": {
+                "name": "Irelia",
+                "championId": "TFT5_Irelia",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 22
+            },
+            "jax": {
+                "name": "Jax",
+                "championId": "TFT5_Jax",
+                "cost": 4,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 12
+            },
+            "kalista": {
+                "name": "Kalista",
+                "championId": "TFT5_Kalista",
+                "cost": 1,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 29
+            },
+            "karma": {
+                "name": "Karma",
+                "championId": "TFT5_Karma",
+                "cost": 4,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Invoker"
+                ],
+                "amount": 12
+            },
+            "kayle": {
+                "name": "Kayle",
+                "championId": "TFT5_Kayle",
+                "cost": 5,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 10
+            },
+            "kennen": {
+                "name": "Kennen",
+                "championId": "TFT5_Kennen",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 22
+            },
+            "kha'zix": {
+                "name": "Kha'Zix",
+                "championId": "TFT5_Khazix",
+                "cost": 1,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Assassin"
+                ],
+                "amount": 29
+            },
+            "kled": {
+                "name": "Kled",
+                "championId": "TFT5_Kled",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cavalier"
+                ],
+                "amount": 29
+            },
+            "lee sin": {
+                "name": "Lee Sin",
+                "championId": "TFT5_LeeSin",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "leona": {
+                "name": "Leona",
+                "championId": "TFT5_Leona",
+                "cost": 1,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "lucian": {
+                "name": "Lucian",
+                "championId": "TFT5_Lucian",
+                "cost": 4,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 12
+            },
+            "lulu": {
+                "name": "Lulu",
+                "championId": "TFT5_Lulu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "lux": {
+                "name": "Lux",
+                "championId": "TFT5_Lux",
+                "cost": 3,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Mystic"
+                ],
+                "amount": 18
+            },
+            "miss fortune": {
+                "name": "Miss Fortune",
+                "championId": "TFT5_MissFortune",
+                "cost": 3,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 18
+            },
+            "nautilus": {
+                "name": "Nautilus",
+                "championId": "TFT5_Nautilus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Ironclad",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "nidalee": {
+                "name": "Nidalee",
+                "championId": "TFT5_Nidalee",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 18
+            },
+            "nocturne": {
+                "name": "Nocturne",
+                "championId": "TFT5_Nocturne",
+                "cost": 3,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Assassin"
+                ],
+                "amount": 18
+            },
+            "nunu": {
+                "name": "Nunu",
+                "championId": "TFT5_Nunu",
+                "cost": 3,
+                "traits": [
+                    "Set5_Abomination",
+                    "Set5_Brawler"
+                ],
+                "amount": 18
+            },
+            "olaf": {
+                "name": "Olaf",
+                "championId": "TFT5_Olaf",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "poppy": {
+                "name": "Poppy",
+                "championId": "TFT5_Poppy",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Knight"
+                ],
+                "amount": 29
+            },
+            "pyke": {
+                "name": "Pyke",
+                "championId": "TFT5_Pyke",
+                "cost": 2,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Assassin"
+                ],
+                "amount": 22
+            },
+            "rakan": {
+                "name": "Rakan",
+                "championId": "TFT5_Rakan",
+                "cost": 3,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Renewer"
+                ],
+                "amount": 18
+            },
+            "rell": {
+                "name": "Rell",
+                "championId": "TFT5_Rell",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ironclad",
+                    "Set5_Cavalier"
+                ],
+                "amount": 12
+            },
+            "riven": {
+                "name": "Riven",
+                "championId": "TFT5_Riven",
+                "cost": 3,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "sejuani": {
+                "name": "Sejuani",
+                "championId": "TFT5_Sejuani",
+                "cost": 2,
+                "traits": [
+                    "Set5_Brawler",
+                    "Set5_Nightbringer",
+                    "Set5_Cavalier"
+                ],
+                "amount": 22
+            },
+            "senna": {
+                "name": "Senna",
+                "championId": "TFT5_Senna",
+                "cost": 1,
+                "traits": [
+                    "Set5_Sentinel",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 29
+            },
+            "sett": {
+                "name": "Sett",
+                "championId": "TFT5_Sett",
+                "cost": 2,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Brawler"
+                ],
+                "amount": 22
+            },
+            "soraka": {
+                "name": "Soraka",
+                "championId": "TFT5_Soraka",
+                "cost": 2,
+                "traits": [
+                    "Set5_Dawnbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 22
+            },
+            "syndra": {
+                "name": "Syndra",
+                "championId": "TFT5_Syndra",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Invoker"
+                ],
+                "amount": 22
+            },
+            "teemo": {
+                "name": "Teemo",
+                "championId": "TFT5_Teemo",
+                "cost": 5,
+                "traits": [
+                    "Set5_Cruel",
+                    "Set5_Hellion",
+                    "Set5_Invoker"
+                ],
+                "amount": 10
+            },
+            "thresh": {
+                "name": "Thresh",
+                "championId": "TFT5_Thresh",
+                "cost": 2,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Knight"
+                ],
+                "amount": 22
+            },
+            "tristana": {
+                "name": "Tristana",
+                "championId": "TFT5_Tristana",
+                "cost": 2,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Cannoneer"
+                ],
+                "amount": 22
+            },
+            "udyr": {
+                "name": "Udyr",
+                "championId": "TFT5_Udyr",
+                "cost": 1,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Skirmisher"
+                ],
+                "amount": 29
+            },
+            "varus": {
+                "name": "Varus",
+                "championId": "TFT5_Varus",
+                "cost": 2,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Ranger"
+                ],
+                "amount": 22
+            },
+            "vayne": {
+                "name": "Vayne",
+                "championId": "TFT5_Vayne",
+                "cost": 1,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Ranger"
+                ],
+                "amount": 29
+            },
+            "vel'koz": {
+                "name": "Vel'Koz",
+                "championId": "TFT5_Velkoz",
+                "cost": 4,
+                "traits": [
+                    "Set5_Redeemed",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 12
+            },
+            "viego": {
+                "name": "Viego",
+                "championId": "TFT5_Viego",
+                "cost": 5,
+                "traits": [
+                    "Set5_Forgotten",
+                    "Set5_Skirmisher",
+                    "Set5_Assassin"
+                ],
+                "amount": 10
+            },
+            "vladimir": {
+                "name": "Vladimir",
+                "championId": "TFT5_Vladimir",
+                "cost": 1,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Renewer"
+                ],
+                "amount": 29
+            },
+            "volibear": {
+                "name": "Volibear",
+                "championId": "TFT5_Volibear",
+                "cost": 5,
+                "traits": [
+                    "Set5_Revenant",
+                    "Set5_Brawler"
+                ],
+                "amount": 10
+            },
+            "yasuo": {
+                "name": "Yasuo",
+                "championId": "TFT5_Yasuo",
+                "cost": 3,
+                "traits": [
+                    "Set5_Nightbringer",
+                    "Set5_Legionnaire"
+                ],
+                "amount": 18
+            },
+            "ziggs": {
+                "name": "Ziggs",
+                "championId": "TFT5_Ziggs",
+                "cost": 1,
+                "traits": [
+                    "Set5_Hellion",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 29
+            },
+            "zyra": {
+                "name": "Zyra",
+                "championId": "TFT5_Zyra",
+                "cost": 3,
+                "traits": [
+                    "Set5_Draconic",
+                    "Set5_Spellweaver"
+                ],
+                "amount": 18
+            }
+        }
+    }
+}
